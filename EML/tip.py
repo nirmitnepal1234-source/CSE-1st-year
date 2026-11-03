@@ -1,13 +1,3 @@
-# bill=float(input("Enter the total bill amount(in Rs): "))
-# tip=float(input("Enter the tip amount(in Rs): "))
-# total_bill=bill+tip
-
-# print("\n----Bill Breakdown----")
-# print(f"Bill Amount  : Rs{bill:.2f}")
-# print(f"Tip amount   : Rs{tip:.2f}")
-# print("-"*25)
-# print(f"Total bill   : Rs{total_bill:.2f}")
-
 print("***Tip Calculator***")
 items=int(input("Enter the number of items:"))
 item_name=[]
